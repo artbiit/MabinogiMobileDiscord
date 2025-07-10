@@ -1,0 +1,12 @@
+{
+  "name": "MabinogiMobileDiscord",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/artbiit/MabinogiMobileDiscord",
+  "author": "art <artbiit@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.0"
+  }
+}
