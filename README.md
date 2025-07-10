@@ -11,3 +11,9 @@
 yarn
 ```
 
+# Environment
+
+``` .env
+#DISCORD
+DISCORD_TOKEN=<YOUR-DISCORD-BOT-TOKEN>
+```
