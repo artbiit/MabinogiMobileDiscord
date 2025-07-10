@@ -2,7 +2,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 const requiredEnv = {
-  DISCORD: [TOKEN],
+  DISCORD: ["TOKEN", "CLIENT_ID"],
 };
 
 const config = {};
